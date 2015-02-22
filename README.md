@@ -1,5 +1,5 @@
 # CodeRequests
-This is a location where individuals within the DFIR can ask for coding requests.
+This is a location where individuals within the DFIR can ask for coding requests. Requests are submitted in the form of issues.
 
 Here is a quick "key"
 Issue Numer
