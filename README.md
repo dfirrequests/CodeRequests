@@ -1,2 +1,2 @@
 # CodeRequests
-A please where people can request scripts/code be written.
+This is a location where individuals within the DFIR can ask for coding requests.
